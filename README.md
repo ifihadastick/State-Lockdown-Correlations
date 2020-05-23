@@ -26,7 +26,9 @@ Length of lockdowns comes from source above, and time between lockdown date and 
 
 
 Observations: 
-Length of Lockdown vs Incident Rate- Moderate positive correlation. Correlation does NOT equal Causation, however, does this show that extended lockdowns certainly do NOT decrease your incident rate? 
+Length of Lockdown vs Incident Rate- Moderate positive correlation. TAke with grain of salt as well as incident rate is calculated with confirmed case counts which is an under count. 
+
+Correlation does NOT equal Causation, however, does this show that extended lockdowns certainly do NOT decrease your incident rate? Perhaps governors made lockdowns longer knowing they had higher proportion of population affected?- nope, that would not have been known at time of lockdown.
 
 Testing Rate vs Incident Rate- Strong positive correlation - interpretation- the more you test, the more you find. TESTING IS WHAT DROVE UP THE "GROWTH" -
 
