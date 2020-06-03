@@ -17,7 +17,7 @@ https://www.littler.com/publication-press/publication/stay-top-stay-home-list-st
 https://www.usatoday.com/storytelling/coronavirus-reopening-america-map/
 
 Please See link for Scatterplot's based on source data.
-https://app.powerbi.com/reportEmbed?reportId=ee741c56-afc6-4a95-b9ec-a24b5deb6c21&autoAuth=true&ctid=945c199a-83a2-4e80-9f8c-5a91be5752dd&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtYy1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
+https://app.powerbi.com/view?r=eyJrIjoiNjk3N2ZhYWYtYWE0Zi00YTA5LTgwYzAtZTJiNDRjMDllOTJiIiwidCI6Ijk0NWMxOTlhLTgzYTItNGU4MC05ZjhjLTVhOTFiZTU3NTJkZCIsImMiOjN9
 
 
 Explanations:
